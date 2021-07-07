@@ -1,0 +1,18 @@
+.heading {
+    margin: 0%;
+    width: 100%;
+    box-shadow: 5px 5px 7px grey;
+    font-size: 25px;
+}
+.heading2 {
+    background-color: lightseagreen;
+    padding: 10px;
+    float: none;
+    box-shadow: 5px 5px 7px grey;
+    border-radius: 15px;
+    margin: 10px;
+}
+.heading3 {
+    padding: 10px;
+    font-size: 15px;
+}
